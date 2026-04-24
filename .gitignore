@@ -5,13 +5,10 @@ __pycache__/
 .venv/
 venv/
 *.db
-database/*.db
 models/*.joblib
 models/*.json
 models/*.csv
 data/*.csv
-mlruns/
-.mlflow/
 *.log
 .pytest_cache/
 .coverage

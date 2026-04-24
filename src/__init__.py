@@ -1,1 +1,1 @@
-# EduPulse AI - src package
+# src package
