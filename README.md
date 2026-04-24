@@ -156,6 +156,25 @@ Both <5 hrs and >9 hrs sleep correlate with lower scores. The optimal window is 
 
 ---
 
+## 📸 Screenshots
+
+### 🎯 Prediction & SHAP Explainability
+![Prediction tab showing score, confidence, SHAP analysis, and assessment](screenshots/01_prediction.png)
+
+### 🔬 Key Insights from Data
+![Insights tab with dynamically computed findings like Study Time Paradox and Attendance correlation](screenshots/02_insights.png)
+
+### 🏆 Model Comparison & Selection
+![Models tab showing XGBoost as winner with R², RMSE, MAE comparison table](screenshots/03_models.png)
+
+### 📊 Exploratory Data Analysis
+![EDA tab with score distribution, scatter plots, and dataset summary metrics](screenshots/04_eda.png)
+
+### 🔄 What-If Simulator
+![What-If simulator showing parameter adjustment sliders and score delta](screenshots/05_whatif.png)
+
+---
+
 ## 🚀 Getting Started
 
 ### Local Setup
