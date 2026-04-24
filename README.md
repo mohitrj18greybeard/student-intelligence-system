@@ -198,4 +198,4 @@ MIT License — Built with ❤️ for education.
 
 ---
 
-Made by [Mohit Rajput](https://github.com/mohitrj18greybeard) | Powered by XGBoost, SHAP, and Streamlit
+Made by [Mohit](https://github.com/mohitrj18greybeard) | Powered by XGBoost, SHAP, and Streamlit

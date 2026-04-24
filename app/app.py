@@ -406,7 +406,7 @@ def main():
 
     st.markdown("---")
     st.markdown(
-        '<p style="text-align:center;opacity:0.5;">Built by Mohit Rajput | '
+        '<p style="text-align:center;opacity:0.5;">Built by Mohit | '
         'Powered by XGBoost, SHAP & Streamlit</p>', unsafe_allow_html=True
     )
 
