@@ -2,7 +2,8 @@
 
 An end-to-end AI-powered platform that predicts student academic performance, explains **why** a student may underperform using SHAP explainability, and generates personalized, actionable improvement strategies.
 
-> **Live Demo:** [EduPulse AI on Streamlit Cloud →](https://student-intelligence-system-99szuhm2s2fs7ovf26pjh7.streamlit.app/)
+## Cloud
+**The app is live at:[EduPulse AI →](https://student-intelligence-system-99szuhm2s2fs7ovf26pjh7.streamlit.app/)
 
 ---
 
