@@ -183,9 +183,6 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-### Cloud
-The app is live at: [EduPulse AI →](https://student-intelligence-system-99szuhm2s2fs7ovf26pjh7.streamlit.app/)
-
 ---
 
 ## 🔮 Future Improvements
