@@ -1,4 +1,4 @@
-# 🧠 EduPulse AI — Student Intelligence & Performance Optimization System
+# 🧠 [EduPulse AI →](https://student-intelligence-system-99szuhm2s2fs7ovf26pjh7.streamlit.app/) — Student Intelligence & Performance Optimization System
 
 An end-to-end AI-powered platform that predicts student academic performance, explains **why** a student may underperform using SHAP explainability, and generates personalized, actionable improvement strategies.
 
