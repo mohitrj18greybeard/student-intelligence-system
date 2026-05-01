@@ -212,10 +212,21 @@ The app is live at: [EduPulse AI →](https://student-intelligence-system-99szuh
 
 ---
 
-## 📝 License
+## 👤 Author
 
-MIT License — Built with ❤️ for education.
+**Mohit**
+
+- GitHub: [@mohitrj18greybeard](https://github.com/mohitrj18greybeard)
 
 ---
 
-Made by [Mohit](https://github.com/mohitrj18greybeard) | Powered by XGBoost, SHAP, and Streamlit
+## 📝 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">
+  <strong>⭐ If you found this project useful, please give it a star!</strong><br/>
+  <em>Built with ❤️ </em>
+</p>
