@@ -198,11 +198,11 @@ streamlit run streamlit_app.py
 
 ## ⚙️ Technical Stack
 
-- **ML:** scikit-learn, XGBoost, SHAP
-- **Data:** pandas, NumPy
-- **Visualization:** Plotly, Matplotlib, Seaborn
-- **Dashboard:** Streamlit
-- **Deployment:** Streamlit Cloud
+- **ML:** `scikit-learn`, `XGBoost`, `SHAP`
+- **Data:** `pandas`, `NumPy`
+- **Visualization:** `Plotly`, `Matplotlib`, `Seaborn`
+- **Dashboard:** `Streamlit`
+- **Deployment:** `Streamlit Cloud`
 
 ---
 
